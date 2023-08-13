@@ -1,4 +1,4 @@
 package dev.wesleypuntel.movies;
 
-public class MovieController {
+public class MovieController { 
 }
